@@ -45,8 +45,10 @@ Router(config-if)# ip address 192.168.1.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/920fe7dd-87eb-4642-ba86-abd014b9601f" />
 
-Insert screenshots showing ping success, configuration, or simulation results.
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/01d87824-27d3-4452-9263-9f20337c868d" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
